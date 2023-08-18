@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-  <img src="https://giphy.com/embed/Dh5q0sShxgp13DwrvG" width="200" height="296" frameBorder="0" />
+  <img src="https://giphy.com/gifs/coding-zOvBKUUEERdNm" width="200" height="296" frameBorder="0" />
 </div>
 
 <!--
