@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-<iframe id="header" align="center"> src="https://giphy.com/embed/zOvBKUUEERdNm" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/coding-zOvBKUUEERdNm">via GIPHY</a></p>
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="100"/>
+</div>
 
 <!--
 **Moamenmuh13/Moamenmuh13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
