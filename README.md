@@ -1,8 +1,3 @@
-### Hi there, I'm a junior dev! 👋
-<h1 align="left">Hi there, I'm a junior dev! 👋</h1>
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmV3ZzJ6ZmNwNnB1bGVjc3RkdjIwaGthMTE3NXh3cDJhbW93b2dvciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" width="400" height="200"/>
-</div>
 <h1 align="left">Hi there, I'm a junior dev! 👋</h1>
 
 ###
