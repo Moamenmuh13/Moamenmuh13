@@ -2,21 +2,7 @@
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmV3ZzJ6ZmNwNnB1bGVjc3RkdjIwaGthMTE3NXh3cDJhbW93b2dvciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" width="400" height="200"/>
-
-<div id="badges">
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/MumenMu13">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
 </div>
-<img src="https://komarev.com/ghpvc/?Moamenmuh13&style=flat-square&color=blue" alt=""/>
-
-</div>
-
-</div>
-
 ## 🚀 About Me
 I'm an Android developer Native kotlin and Learining flutter too
 
@@ -26,10 +12,24 @@ I'm an Android developer Native kotlin and Learining flutter too
 - 📫 How to reach me: 
 
 
-## 🛠 Skills
-Kotlin, Java, Flutter&Dart
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=moamenmuh13&label=Profile%20views&color=0e75b6&style=flat" alt="moamenmuh13" /> </p>
 
-<!-- ## License
-[MIT](https://choosealicense.com/licenses/mit/)
--->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moamenmuh13" alt="moamenmuh13" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/mumenmu13" target="blank"><img src="https://img.shields.io/twitter/follow/mumenmu13?logo=twitter&style=for-the-badge" alt="mumenmu13" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/mumenmu13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mumenmu13" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mu-men-muhammad-ali-264113196/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mu-men-muhammad-ali-264113196/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://ko-fi.com/https://ko-fi.com/mu2men13"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/mu2men13" /></a></p><br><br>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=moamenmuh13&show_icons=true&locale=en&layout=compact" alt="moamenmuh13" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moamenmuh13&" alt="moamenmuh13" /></p>
