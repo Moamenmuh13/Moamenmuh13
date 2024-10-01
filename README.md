@@ -8,6 +8,9 @@
 # 💫 About Me:
 I'm Mu'men Muhammad Ali from Cairo, Egypt,<br>I'm an Android developer Native Kotlin and Learning flutter too<br><br>- 🔭 I’m currently a student at ALX SWE<br>- 🌱 I’m currently learning Software Engineering<br>- 💬 Ask me about Android dev<br>- ⚡ In my free time I play online games (Apes Legend)
 
+## 🏅 Badges:
+[![Dynamic DevOps Roadmap](https://devopshive.net/badges/dynamic-devops-roadmap.svg)](https://github.com/DevOpsHiveHQ/dynamic-devops-roadmap)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mu-men-muhammad-ali-264113196/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@mutech13) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/MumenMu13) 
