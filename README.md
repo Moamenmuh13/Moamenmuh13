@@ -94,7 +94,6 @@
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@mutech13)  
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/MumenMu13)
 
----
 📫 Reach me: [mumenmuhammad13@gmail.com](mailto:mumenmuhammad13@gmail.com)  
 🌍 Portfolio: Coming Soon!
 
