@@ -1,104 +1,89 @@
-### Hi there, I'm Mu'men 👋  
-🚀 Aspiring DevOps & Cloud Architect | 🛠️ IT System Administrator | 🎮 Gamer
+# Moamen Aly
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmV3ZzJ6ZmNwNnB1bGVjc3RkdjIwaGthMTE3NXh3cDJhbW93b2dvciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" width="400" height="200"/>
-</div>
+**Integration Engineer | Boomi | DevOps** — Cairo, Egypt
+
+I build and operate integrations between ERPs, SaaS platforms and internal systems using **Boomi**, **n8n**, REST APIs and Python.
+My background is DevOps and Linux administration, so I focus on the parts most integrations skip: deployment automation, runtime operations, monitoring and error handling.
+
+- Integration & Automation Engineer at **Kit Consulting**
+- **Boomi Associate Integration Developer**, working toward Professional
+- MSc Software Engineering student at **Cairo University**
 
 ---
-## 💻 Tech Stack:
 
-### 🧰 DevOps & Cloud:
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Plesk](https://img.shields.io/badge/plesk-%23000000.svg?style=for-the-badge&logo=plesk&logoColor=white)
-![VMware](https://img.shields.io/badge/vmware-%23007ee5.svg?style=for-the-badge&logo=vmware&logoColor=white)
-![Hyper-V](https://img.shields.io/badge/Hyper--V-%230078D7.svg?style=for-the-badge&logo=windows&logoColor=white)
+## Certifications
 
-### 🖥️ System Admin & Monitoring:
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![PRTG](https://img.shields.io/badge/PRTG-009FDF?style=for-the-badge&logo=prtg&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![ESET](https://img.shields.io/badge/ESET-0095D9?style=for-the-badge&logo=eset&logoColor=white)
+| Certification | Status |
+| --- | --- |
+| Boomi Associate Integration Developer | Certified (2026) |
+| Boomi Professional Integration Developer | In progress |
 
-### 🗃️ Databases:
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+---
 
-### 💻 Scripting & Programming:
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+## Featured: [Integration Portfolio](https://github.com/Moamenmuh13/integration-portfolio)
 
-### 📱 Mobile & UI Tools:
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Android](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+End-to-end integration projects, each with architecture diagrams, error handling and a one-command setup.
 
-### 🎨 Design & Productivity:
-![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+| # | Project | Stack | Status |
+| --- | --- | --- | --- |
+| P1 | REST API with OAuth2 and JWT | FastAPI, PostgreSQL, Nginx, Docker Compose | In progress |
+| P2 | Boomi data sync pipeline with error routing and caching | Boomi, REST, Try/Catch, Document Cache | Planned |
+| P3 | Self-hosted Boomi Molecule with message broker and monitoring | Boomi, Docker, RabbitMQ/Kafka, Prometheus | Planned |
+| P4 | Boomi API with automated CI/CD deployments | Boomi Platform API, GitHub Actions | Planned |
+| P5 | Event-driven multi-system integration (ERP, CRM, notifications) | Boomi, Odoo, Enterprise Integration Patterns | Planned |
+
+---
+
+## Tech Stack
+
+**Integration**
+
+![Boomi](https://img.shields.io/badge/Boomi-033D58?style=for-the-badge)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white)
+
+REST · SOAP · Webhooks · JSON/XML mapping and transformation · OAuth 2.0 · JWT
+
+**Scripting**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+**DevOps**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**Infrastructure**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+
+**Databases and Monitoring**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge)
 
 ---
 
-## 📚 Currently Learning:
-- CI/CD tools: Jenkins, GitHub Actions
-- Infrastructure as Code: Terraform, Ansible
-- Kubernetes in-depth
-- AWS Solutions Architect path
+## Currently
+
+- Completing **Boomi Professional Integration Developer**
+- Building P1 and P2 of the integration portfolio
+- Next: Boomi runtime administration (Atoms, Molecules) and message brokers (RabbitMQ, Kafka)
 
 ---
 
-<!-- ## 🧾 Certifications:
-- 🎓 Docker Mastery – Udemy *(Completed)*
-- 🎓 AWS Cloud Practitioner – *In Progress*
-- 🎓 Dynamic DevOps Roadmap – [DevOpsHive](https://github.com/DevOpsHiveHQ/dynamic-devops-roadmap) -->
+## Contact
 
----
-
-## 🏅 Badges:
-[![Dynamic DevOps Roadmap](https://devopshive.net/badges/dynamic-devops-roadmap.svg)](https://github.com/DevOpsHiveHQ/dynamic-devops-roadmap)
-
----
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Moamenmuh13&theme=gotham&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Moamenmuh13&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Moamenmuh13&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
-
-## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=Moamenmuh13&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
-
----
-
-### ✍️ Random Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-### 🔝 Top Contributed Repo:
-![](https://github-contributor-stats.vercel.app/api?username=Moamenmuh13&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mu-men-muhammad-ali-264113196/)  
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@mutech13)  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/MumenMu13)
-
-📫 Reach me: [mumenmuhammad13@gmail.com](mailto:mumenmuhammad13@gmail.com)  
-🌍 Portfolio: Coming Soon!
-
----
-
-[![](https://visitcount.itsvg.in/api?id=Moamenmuh13&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mu-men-muhammad-ali-264113196/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mumenmuhammad13@gmail.com)
