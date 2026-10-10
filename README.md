@@ -25,11 +25,6 @@ My background is DevOps and Linux administration, so I focus on the parts most i
 ---
 
 ## 🏅 Badges
-
-<a href="https://www.credly.com/badges/a71880ac-0efb-4007-877a-5d56c5029740">
-  <img src="https://images.credly.com/images/245a78a3-0e60-41da-b04e-b1aa1faa662f/linkedin_thumb_blob" alt="Boomi Certified Associate: Integration Developer" width="160"/>
-</a>
-
 <p>
   <a href="https://www.credly.com/badges/a71880ac-0efb-4007-877a-5d56c5029740"><img src="https://images.credly.com/images/245a78a3-0e60-41da-b04e-b1aa1faa662f/linkedin_thumb_blob" alt="Boomi Certified Associate: Integration Developer" width="110"/></a>
   &nbsp;&nbsp;
