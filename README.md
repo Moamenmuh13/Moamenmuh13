@@ -26,9 +26,9 @@ My background is DevOps and Linux administration, so I focus on the parts most i
 
 ## 🏅 Badges
 <p>
-  <a href="https://www.credly.com/badges/a71880ac-0efb-4007-877a-5d56c5029740"><img src="https://images.credly.com/images/245a78a3-0e60-41da-b04e-b1aa1faa662f/linkedin_thumb_blob" alt="Boomi Certified Associate: Integration Developer" width="110"/></a>
+  <a href="https://www.credly.com/badges/a71880ac-0efb-4007-877a-5d56c5029740"><img src="https://images.credly.com/images/245a78a3-0e60-41da-b04e-b1aa1faa662f/linkedin_thumb_blob" alt="Boomi Certified Associate: Integration Developer" width="160"/></a>
   &nbsp;&nbsp;
-  <a href="https://github.com/DevOpsHiveHQ/dynamic-devops-roadmap"><img src="https://devopshive.net/badges/dynamic-devops-roadmap.svg" alt="Dynamic DevOps Roadmap" height="32"/></a>
+  <a href="https://github.com/DevOpsHiveHQ/dynamic-devops-roadmap"><img src="https://devopshive.net/badges/dynamic-devops-roadmap.svg" alt="Dynamic DevOps Roadmap" height="48"/></a>
 </p>
 
 ---
