@@ -2,6 +2,10 @@
 
 **Integration Engineer | Boomi | DevOps** — Cairo, Egypt
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmV3ZzJ6ZmNwNnB1bGVjc3RkdjIwaGthMTE3NXh3cDJhbW93b2dvciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" width="400" height="200"/>
+</div>
+
 I build and operate integrations between ERPs, SaaS platforms and internal systems using **Boomi**, **n8n**, REST APIs and Python.
 My background is DevOps and Linux administration, so I focus on the parts most integrations skip: deployment automation, runtime operations, monitoring and error handling.
 
@@ -17,6 +21,13 @@ My background is DevOps and Linux administration, so I focus on the parts most i
 | --- | --- |
 | Boomi Associate Integration Developer | Certified (2026) |
 | Boomi Professional Integration Developer | In progress |
+
+---
+
+## 🏅 Badges
+[![Boomi Certified Associate Integration Developer](https://www.credly.com/badges/a71880ac-0efb-4007-877a-5d56c5029740/public_url)
+
+[![Dynamic DevOps Roadmap](https://devopshive.net/badges/dynamic-devops-roadmap.svg)](https://github.com/DevOpsHiveHQ/dynamic-devops-roadmap)
 
 ---
 
@@ -83,7 +94,27 @@ REST · SOAP · Webhooks · JSON/XML mapping and transformation · OAuth 2.0 · 
 
 ---
 
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Moamenmuh13&theme=gotham&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Moamenmuh13&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Moamenmuh13&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+
+## 🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=Moamenmuh13&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
 ## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mu-men-muhammad-ali-264113196/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moamen-muhammad13)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mumenmuhammad13@gmail.com)
